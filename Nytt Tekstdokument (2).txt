@@ -1,0 +1,6 @@
+<DOCTYPE html>
+<html>
+
+<button onclick="window.location.href = 'Side2.html';"> AGENTS </button>       
+<button onclick="window.location.href = 'VALORANT.html';"> AGENTS </button>                                                                                                                
+                                                                                                         
